@@ -1,0 +1,5 @@
+/Users/swoodleffel29/Documents/Game Projects/zombie-toys-vr-2025-solomonnwoodleffel/.utmp/RelWithDebInfo/3w2k4w2v/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/swoodleffel29/Documents/Game Projects/zombie-toys-vr-2025-solomonnwoodleffel/.utmp/RelWithDebInfo/3w2k4w2v/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/swoodleffel29/Documents/Game Projects/zombie-toys-vr-2025-solomonnwoodleffel/.utmp/RelWithDebInfo/3w2k4w2v/arm64-v8a/GameActivity/CMakeFiles/game.dir
+/Users/swoodleffel29/Documents/Game Projects/zombie-toys-vr-2025-solomonnwoodleffel/.utmp/RelWithDebInfo/3w2k4w2v/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+/Users/swoodleffel29/Documents/Game Projects/zombie-toys-vr-2025-solomonnwoodleffel/.utmp/RelWithDebInfo/3w2k4w2v/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
